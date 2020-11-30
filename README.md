@@ -4,8 +4,6 @@
 
 ## About me
 
-My name is Dzaky Fawwaz Aryadi. I'm a Software Developer. I'm from Indonesia🇮🇩. Living in Jakart and currently study at IDN Boarding School.
-
 - 👨🏻‍💻  I am a Mobile Developer
 - 🔍  I'm currently searching for internship
 - 🌱 Currently learning Flutter
