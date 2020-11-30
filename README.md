@@ -14,6 +14,6 @@
 - 👐🏻 Follow me on social media too [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/jakifwz.svg?style=social&label=Follow%20%40jakifwz)](https://twitter.com/jakifwz)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dzaky&theme=default)](https://github.com/DzakyFawwaz/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DzakyFawwaz&layout=compact)](https://github.com/DzakyFawwaz/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DzakyFawwaz&theme=default)](https://github.com/DzakyFawwaz/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DzakyFawwaz&layout=compact)](https://github.com/DzakyFawwaz/github-readme-stats)
 
 
