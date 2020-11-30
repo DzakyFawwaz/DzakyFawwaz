@@ -8,7 +8,7 @@
 ## About me
 
 - 👨🏻‍💻  I am a Mobile Developer
-- 🔍  I'm currently searching for internship
+- 🔍  I am looking for an internship
 - 🌱 Currently learning Flutter
 - 📫 How to reach me [dzkyfwzaryd@gmail.com](https://mail.google.com/mail/u/0/#inboxcompose=CllgCJZWxvLwpwvVNBkQwDhQzfKLrqxjzpWtJLxztgHpVvvntnBwxbNWcNglKLjQCwLtkXHzknV "Email Dzaky")
 - 👐🏻 Follow me on social media too [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/jakifwz.svg?style=social&label=Follow%20%40jakifwz)](https://twitter.com/jakifwz)
