@@ -1,6 +1,8 @@
-# Hi, i'm Dzaky!🙌🏻
+# Hi, i'm Dzaky! <img src="https://github.com/DzakyFawwaz/dzaky-me/blob/main/wave.gif" width="40" height="40"/>
+
 
 [![HitCount](http://hits.dwyl.com/DzakyFawwaz/https://githubcom/DzakyFawwaz/dzaky-megit.svg)](http://hits.dwyl.com/DzakyFawwaz/https://githubcom/DzakyFawwaz/dzaky-megit)
+
 
 <img src="https://github.com/DzakyFawwaz/dzaky-me/blob/main/Frame%203.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png"/>
 
