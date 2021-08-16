@@ -1,5 +1,4 @@
 # Hi, i'm Dzaky! <img src="https://github.com/DzakyFawwaz/dzaky-me/blob/main/wave.gif" width="40" height="40"/>
-## About me
 
 - <a href="https://dev.to/dzakyfawwaz">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dzaky Fawwaz's DEV Profile" height="20" width="20"> </a> I am a Mobile Developer
