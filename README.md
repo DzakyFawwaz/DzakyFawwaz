@@ -6,6 +6,6 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DzakyFawwaz&theme=default)](https://github.com/DzakyFawwaz/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DzakyFawwaz&layout=compact)](https://github.com/DzakyFawwaz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DzakyFawwaz&layout=compact)](https://github.com/DzakyFawwaz/github-readme-stats)
 
 
